@@ -1,2 +1,3 @@
 http://docs.scielo.org/en/latest/
-
+http://substance.io/texture/
+https://analytics.scielo.org
